@@ -1,4 +1,4 @@
-# awesome-bobine
+# Bobine is awesome
 
 Curated list on Bobine ecosystem
 
