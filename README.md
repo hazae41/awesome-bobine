@@ -22,4 +22,4 @@ Curated list on Bobine ecosystem
 
 - [@ccamel/bobinerie](https://github.com/ccamel/bobinerie) / Haberdashery of Bobine modules: from useful, serious pieces to educational gems and esoteric oddities
 
-Add your own thing via pull request :)
+Add your own thing via pull request 🫡
