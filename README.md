@@ -1,6 +1,6 @@
 # Bobine is awesome
 
-Curated list on Bobine ecosystem
+A curated list on Bobine ecosystem
 
 ## Runtime
 
