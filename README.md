@@ -18,6 +18,6 @@ Curated list on Bobine ecosystem
 
 ### Modules
 
-- [@hazae41/bobine-ed25519](https://github.com/hazae41/bobine-ed25519) / Ed25519 accounts for Bobine WebAssembly VM
+- [@hazae41/ed25519](https://github.com/hazae41/bobine-ed25519) / Ed25519 accounts for Bobine WebAssembly VM
 
 - [@ccamel/bobinerie](https://github.com/ccamel/bobinerie) / Haberdashery of Bobine modules: from useful, serious pieces to educational gems and esoteric oddities
