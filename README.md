@@ -1,8 +1,6 @@
 # Bobine is awesome
 
-A curated list on Bobine ecosystem
-
-https://bobine.tech
+A curated list on [Bobine](https://bobine.tech) ecosystem
 
 ## Runtime
 
