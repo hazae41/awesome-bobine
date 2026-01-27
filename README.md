@@ -2,7 +2,7 @@
 
 A curated list on [Bobine](https://bobine.tech) ecosystem
 
-## Runtime
+## Core
 
 ### Runtimes
 - [@hazae41/bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
