@@ -7,7 +7,7 @@ A curated list on [Bobine](https://bobine.tech) ecosystem
 ### Runtimes
 - [@hazae41/bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
 
-## Modules
+## Module
 
 ### Starters
 - [@hazae41/create-bobine-module](https://github.com/hazae41/create-bobine-module) / Create and deploy your own Bobine module in AssemblyScript
