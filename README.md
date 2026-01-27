@@ -9,7 +9,7 @@ A curated list on [Bobine](https://bobine.tech) ecosystem
 
 ## Userland
 
-The Bobine WebAssembly VM, it can run code written in any language that compiles to WebAssembly, but AssemblyScript is the best one so far
+The Bobine WebAssembly VM can run code written in any language that compiles to WebAssembly, but AssemblyScript is the best one so far
 
 ### Starters
 
