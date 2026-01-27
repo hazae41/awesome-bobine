@@ -1,6 +1,6 @@
 # Bobine is awesome
 
-A curated list on [Bobine](https://bobine.tech) ecosystem
+A curated list on the [Bobine](https://bobine.tech) ecosystem
 
 ## Kernel
 
