@@ -1,4 +1,4 @@
-# 🧵 Bobine is awesome
+# Bobine is awesome
 
 A curated list on the [Bobine](https://bobine.tech) ecosystem
 
