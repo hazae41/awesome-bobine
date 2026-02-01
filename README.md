@@ -1,4 +1,4 @@
-# Bobine is awesome
+# Bobine is awesome 🧵
 
 A curated list on the [Bobine](https://bobine.tech) ecosystem
 
@@ -36,6 +36,7 @@ There is no built-in concept of accounts in Bobine, you can use any accounting m
 #### Finance
 
 - [@ccamel/token_fungible](https://github.com/ccamel/bobinerie/blob/main/contracts/token_fungible/README.md) / A minimal fungible token module for Bobine
+- [@ccamel/pool-xyk](https://github.com/ccamel/bobinerie/blob/main/contracts/pool-xyk/README.md) / XYK (constant-product) AMM pool for two fungible tokens
 
 #### Playful
 
