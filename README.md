@@ -31,7 +31,7 @@ Modules are portion of code with an address and a storage, and can have their me
 
 There is no built-in concept of accounts in Bobine, you can use any accounting module you want, or create your own
 
-- [@hazae41/ed25519](https://github.com/hazae41/bobine-ed25519) / Ed25519 accounts for Bobine WebAssembly VM
+- [@hazae41/ed25519](https://github.com/hazae41/openbob/tree/main/mods/accounts/ed25519) / Ed25519 accounts for Bobine
 
 #### Finance
 
