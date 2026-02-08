@@ -35,7 +35,7 @@ There is no built-in concept of accounts in Bobine, you can use any accounting m
 
 #### Finance
 
-- [@hazae41/ed25519](https://github.com/hazae41/openbob/tree/main/mods/token) / Basic ERC20-like token for Bobine
+- [@hazae41/token](https://github.com/hazae41/openbob/tree/main/mods/token) / Basic ERC20-like token for Bobine
 - [@ccamel/token_fungible](https://github.com/ccamel/bobinerie/blob/main/contracts/token_fungible/README.md) / A minimal fungible token module for Bobine
 - [@ccamel/pool-xyk](https://github.com/ccamel/bobinerie/blob/main/contracts/pool-xyk/README.md) / XYK (constant-product) AMM pool for two fungible tokens
 
