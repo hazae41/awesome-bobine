@@ -5,7 +5,10 @@ A curated list on the [Bobine](https://bobine.tech) ecosystem
 ## Kernel
 
 ### Runtimes
-- [@hazae41/bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
+- [@hazae41/bobine](https://github.com/hazae41/bobine) / WebAssembly-based metered chain of compute
+
+### Servers
+- [@hazae41/turbine](https://github.com/hazae41/turbine) / Bobine over HTTP and WebSocket
 
 ## Userland
 
